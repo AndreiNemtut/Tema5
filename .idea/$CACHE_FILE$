@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Projects/allegro/allegro-cmdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/allegro-dms" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/allegro-es" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/allegro-service-registry" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/allegro-workflow-engine" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/bonita-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/scsl-extsystems" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/allegro/taifun-web" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
