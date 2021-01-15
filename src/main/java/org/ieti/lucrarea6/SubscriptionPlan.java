@@ -2,40 +2,40 @@ package org.ieti.lucrarea6;
 
 public class SubscriptionPlan {
 
-	private Integer price;
-	private String description;
+    private Integer price;
+    private String description;
 
-	public SubscriptionPlan() {
-	}
+    public SubscriptionPlan() {
+    }
 
-	SubscriptionPlan(Integer price, String description) {
-		this.price = price;
-		this.description = description;
-	}
+    SubscriptionPlan(Integer price, String description) {
+        this.price = price;
+        this.description = description;
+    }gi
 
-	public Integer getPrice() {
-		return price;
-	}
+    public Integer getPrice() {
+        return price;
+    }
 
-	public void setPrice(Integer price) {
-		this.price = price;
-	}
+    public void setPrice(Integer price) {
+        this.price = price;
+    }
 
-	public String getDescription() {
-		return description;
-	}
+    public String getDescription() {
+        return description;
+    }
 
-	public void setDescription(String description) {
-		this.description = description;
-	}
+    public void setDescription(String description) {
+        this.description = description;
+    }
 
-	@Override
-	public String toString() {
-		return "SubscriptionPlan{" +
-				"price=" + price +
-				", description='" + description + '\'' +
-				'}';
-	}
+    @Override
+    public String toString() {
+        return "SubscriptionPlan{" +
+                "price=" + price +
+                ", description='" + description + '\'' +
+                '}';
+    }
 }
 
 
